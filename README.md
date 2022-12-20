@@ -1,2 +1,2 @@
-# marriagehalatemplate
-Bootstrap mariage hall template
+# Marriage hala template
+Bootstrap marriage hall template
