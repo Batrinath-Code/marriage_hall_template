@@ -1,2 +1,2 @@
-# Marriage hala template
+# Marriage hall template
 Bootstrap marriage hall template
